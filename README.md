@@ -1,4 +1,4 @@
-retim-planlama-dinamik-programlama
+uretim-planlama-dinamik-programlama
 Geçiş maliyetleriyle birlikte üretim planlaması için dinamik programlama çözümü.
 
 # Üretim Planlama - Dinamik Programlama Yaklaşımı
